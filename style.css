@@ -1,0 +1,27 @@
+
+
+ .topsecstyle {
+    color: white;
+    background: url(img/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    line-height: 300px !important;
+
+}
+
+.div1{
+    vertical-align: middle !important;
+    line-height: normal !important;
+    display: inline-block;
+
+}
+
+.medsecstyle{
+color: white;
+background: url(img/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 200px;
+line-height: 200px !important;
+}
